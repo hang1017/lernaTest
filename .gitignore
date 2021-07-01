@@ -11,4 +11,4 @@
 .umi-test
 **/fixtures/**/dist
 /demo
-/.log
+/*.log
