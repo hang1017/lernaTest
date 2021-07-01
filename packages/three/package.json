@@ -1,5 +1,5 @@
 {
-  "name": "root_hang_three",
+  "name": "@root/three",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "chen.shuhang <437132124@qq.com>",
@@ -22,5 +22,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "d5f6ca22a080ace5e477e2a90b0cf7c874fd646e"
 }
