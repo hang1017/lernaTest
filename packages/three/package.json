@@ -1,27 +1,22 @@
 {
-  "name": "@root/three",
+  "name": "@hang/three",
   "version": "0.0.9",
-  "description": "> TODO: description",
-  "author": "chen.shuhang <437132124@qq.com>",
-  "homepage": "",
-  "license": "MIT",
-  "main": "lib/three.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hang1017/lernaTest.git"
   },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "gitHead": "7a5dc20f576ad82e3a653a72acb3e1bb3a416857"
+  "keywords": [
+    "umi",
+    "alita"
+  ],
+  "authors": [],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }

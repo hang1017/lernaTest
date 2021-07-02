@@ -1,27 +1,22 @@
 {
-  "name": "@root/two",
+  "name": "@hang/two",
   "version": "0.0.9",
-  "description": "> TODO: description",
-  "author": "chen.shuhang <437132124@qq.com>",
-  "homepage": "",
-  "main": "lib/two.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hang1017/lernaTest.git"
   },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
+  "keywords": [
+    "umi",
+    "alita"
+  ],
+  "authors": [],
   "license": "MIT",
-  "gitHead": "7a5dc20f576ad82e3a653a72acb3e1bb3a416857"
+  "publishConfig": {
+    "access": "public"
+  }
 }
