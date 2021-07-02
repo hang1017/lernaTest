@@ -19,7 +19,7 @@ const getPackages = require("./utils/getPackages");
     );
 
     const pkgJson = {
-      name: `@hang/${shortName}`,
+      name: `HANG_${shortName.toUpperCase()}`,
       version,
       main: "lib/index.js",
       types: "lib/index.d.ts",

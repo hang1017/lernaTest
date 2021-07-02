@@ -1,5 +1,5 @@
 {
-  "name": "@hang/one",
+  "name": "HANG_ONE",
   "version": "0.0.9",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
